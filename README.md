@@ -22,8 +22,6 @@ It means the time around 12PM to 3AM
 
 Recommendations :-
 
-1.Usually Customers are purchasing in afternoon time, so we need to provide some 
-offers or some benifits in day time to increase sales in Dawn time.
-2. Customers are more intersted in one time installments and
-Customers are less intersted with 11,13 & 14 installments
+1.Usually Customers are purchasing in afternoon time, so we need to provide some offers or some benifits in day time to increase sales in Dawn time.
+2. Customers are more intersted in one time installments and Customers are less intersted with 11,13 & 14 installments
 3. Also as per data more custmers are using credit cards for payments and less using debit cards.
